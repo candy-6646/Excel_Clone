@@ -18,7 +18,7 @@
  
  <h3>Screenshots</h3>
  <p align="center">
-  <img src="/images/s1.png" width="350" title="Excel DashBoard" alt="s1">
-  <img src="/images/s2.png" width="350" title="Some Sample Data In Cells" alt="s2">
-   <img src="/images/s3.png" width="350" title="How To Use It's Features" alt="s3">
+  <img src="/images/s1.png" width="700" title="Excel DashBoard" alt="s1">
+  <img src="/images/s2.png" width="700" title="Some Sample Data In Cells" alt="s2">
+   <img src="/images/s3.png" width="700" title="How To Use It's Features" alt="s3">
  </p>

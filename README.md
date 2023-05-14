@@ -12,6 +12,7 @@
   <li>Data can be saved.</li>
   <li>Link <a href="https://kundan-6646.github.io/Spreadsheets/">Spreadsheets</a></li>
   <li>You can insert formula for a cell to compute it's value.</li>
+ <li>The formula bar supports complex formulas that can include parent elements, allowing users to perform computations across multiple cells.</li>
  </ul>
  
  
